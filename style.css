@@ -1,0 +1,24 @@
+body{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif
+    
+}
+
+.heading{
+    text-align: center;
+    text-decoration: lightcoral
+}
+
+.job{
+    color: blue;
+    font-weight: 800;
+}
+
+p{
+    line-height: 1.5;
+    text-align: justify;
+}
+
+p{
+    color: green
+}
